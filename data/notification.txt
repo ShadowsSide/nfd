@@ -1,5 +1,7 @@
-👋你好！
+👋你好！我是消息转发Bot，请告诉我你想说的话
 
-我是消息转发Bot，请告诉我你想说的话
-Powered by [NFD](https://github.com/LloydAsp/nfd)
+⬇️在这里留言（或发送媒体），我会尽快回复。
+
+Powered byNFD
+https://github.com/LloydAsp/nfd
 
